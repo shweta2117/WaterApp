@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Water</string>
+
+    <string name="form_heading">Tell Us About Yourself</string>
+
+
+    <!--hint-->
+    <string name="hint_age">Age(In Yrs)</string>
+    <string name="hint_weight">Weight</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="others">Others</string>
+    <string name="lets_go">Lets Start Drinking... Water</string>
+
+</resources>
