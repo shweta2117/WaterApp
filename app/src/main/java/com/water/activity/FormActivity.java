@@ -1,9 +1,11 @@
-package com.water;
+package com.water.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import com.water.R;
 
 public class FormActivity extends AppCompatActivity implements View.OnClickListener {
 
